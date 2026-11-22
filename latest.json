@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
+  "version": "1.8.0",
   "url": "https://raw.githubusercontent.com/ashenhehe/Ember-by-Ash/main/Ember-Setup.exe",
-  "notes": "Sinhala lyrics fixed. Ember now updates itself from GitHub."
+  "notes": "Desktop skin: your desktop becomes a live music wallpaper with the artist's photos drifting, an Apple-style liquid glass clock, lyrics, Continue playing, search and a glass player (Ctrl+Alt+D). Search any song, artist or album with artist pages: photo, story, top songs and an album carousel (Ctrl+Alt+F). Now-playing card when a song starts. Sleep timer. Spotify artist pages now show their popular songs."
 }
