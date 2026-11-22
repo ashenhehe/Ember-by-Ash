@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "url": "https://raw.githubusercontent.com/ashenhehe/Ember-by-Ash/main/Ember-Setup.exe",
-  "notes": "Edge light: no more visible border when the bass hits, the light now fades out smoothly however far it reaches. Desktop mode: song names no longer cut off letters like g, y and Sinhala marks, and the name no longer sits in its own dark box."
+  "notes": "Desktop mode: a - button next to Continue playing folds it away (+ brings it back), and it remembers your choice. Also includes 1.8.1: smooth edge light on bass hits and song names no longer cut off."
 }
