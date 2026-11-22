@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://raw.githubusercontent.com/ashenhehe/Ember-by-Ash/main/Ember-Setup.exe",
-  "notes": "Desktop skin: your desktop becomes a live music wallpaper with the artist's photos drifting, an Apple-style liquid glass clock, lyrics, Continue playing, search and a glass player (Ctrl+Alt+D). Search any song, artist or album with artist pages: photo, story, top songs and an album carousel (Ctrl+Alt+F). Now-playing card when a song starts. Sleep timer. Spotify artist pages now show their popular songs."
+  "notes": "Edge light: no more visible border when the bass hits, the light now fades out smoothly however far it reaches. Desktop mode: song names no longer cut off letters like g, y and Sinhala marks, and the name no longer sits in its own dark box."
 }
