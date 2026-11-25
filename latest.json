@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "url": "https://raw.githubusercontent.com/ashenhehe/Ember-by-Ash/main/Ember-Setup.exe",
-  "notes": "Desktop mode: a - button next to Continue playing folds it away (+ brings it back), and it remembers your choice. Also includes 1.8.1: smooth edge light on bass hits and song names no longer cut off."
+  "notes": "Player size is back: Settings > General > Player (Small, Medium, Large, Extra large), or right-click the player. You can also choose where it shows from there."
 }
