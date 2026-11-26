@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "url": "https://raw.githubusercontent.com/ashenhehe/Ember-by-Ash/main/Ember-Setup.exe",
-  "notes": "Player size is back: Settings > General > Player (Small, Medium, Large, Extra large), or right-click the player. You can also choose where it shows from there."
+  "notes": "Pick the screen for the lyrics, the Desktop skin and Music mode (Settings, or tray > Screens, or the screen button on the skin). Portrait screens get their own layouts and everything follows when you rotate a screen."
 }
